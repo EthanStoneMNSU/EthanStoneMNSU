@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**EthanStoneMNSU/EthanStoneMNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning how to be a great CS major
 - 🌱 I’m currently learning about computers I think
 - 👯 I’m looking to collaborate on group projects
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: With a very long stick.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When life gives you lemons, wait where did you get those lemons from?
--->
